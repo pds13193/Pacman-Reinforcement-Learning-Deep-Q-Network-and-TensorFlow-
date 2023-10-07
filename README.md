@@ -1,10 +1,5 @@
 # Pacman Reinforcement Learning with TensorFlow and DQN
 
-**Author:** Pavithra Dasarakoppalu Shivanna
-**Date:** May 09, 2023
-**University:** University of Arizona
-**Degree:** Master of Science in Data Science
-
 ## Overview
 
 This repository contains the implementation of the classic Pacman game using the Deep Q-Network (DQN) algorithm in conjunction with TensorFlow. The goal of this project was to create an intelligent agent capable of autonomously playing Pacman by leveraging deep reinforcement learning techniques.
@@ -14,7 +9,6 @@ This repository contains the implementation of the classic Pacman game using the
 - Reinforcement learning with DQN
 - TensorFlow-based neural network architecture
 - Autonomous Pacman gameplay
-- Performance analysis and visualization
 
 ## Project Structure
 
